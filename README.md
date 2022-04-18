@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Christo
+## 👋 Intro:
+- 🔭 Hi, I’m Christo aka sulticrax
+- ⚡ coffee shop regular / crossed the equator a few times
 - 🌱 I’m currently learning RHCSA 8
 
 ## 🧰 Currently learning my first Language
-![Bash](https://img.shields.io/badge/bash-3670A0?style=for-the-badge&logo=bash&logoColor=ffdd54)
+![Shell](https://img.shields.io/badge/shell-3670A0?style=for-the-badge&logo=shell&logoColor=ffdd54)
 
 ## 📫 How to reach me:
 
@@ -11,7 +13,20 @@
 <img src="https://img.shields.io/badge/linkedin-christodeale-blue?style=for-the-badge&logo=linkedin"/>
 <img src="https://img.shields.io/badge/twitter-sulticrax-lightblue?style=for-the-badge&logo=twitter"/>
 
+## 📝 Study Notes: 
 
+Find my content here: [sulticrax.gitbook.io](https://sulticrax.gitbook.io)
+![sulticrax' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/sulticrax.png)
+![sulticrax](https://www.hackthebox.eu/badge/image/951433)
+
+
+
+
+
+
+  
+  
+  
 <!---
 sulticrax/sulticrax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
