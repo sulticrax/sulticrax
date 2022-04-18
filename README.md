@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning RHCSA 8
 
 ## 🧰 Currently learning my first Language
-![Shell](https://img.shields.io/badge/shell-3670A0?style=for-the-badge&logo=shell&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-3670A0?style=for-the-badge&logo=bash&logoColor=ffdd54)
 
 ## 📫 How to reach me:
 
