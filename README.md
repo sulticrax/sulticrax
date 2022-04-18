@@ -16,7 +16,7 @@
 ## 📝 Study Notes: 
 
 Find my content here: [sulticrax.gitbook.io](https://sulticrax.gitbook.io)
-<p>!<script src="https://tryhackme.com/badge/967397"></script></p>
+<p>![sulticrax](https://tryhackme.com/badge/967397)</p>
 <p>![sulticrax](https://www.hackthebox.eu/badge/image/951433)</p>
 
 
