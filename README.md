@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sulticrax
-- 👀 I’m interested in Bash Scripting
+- 👋 Hi, I’m Christo
 - 🌱 I’m currently learning RHCSA 8
 
 ## 🧰 Currently learning my first Language
