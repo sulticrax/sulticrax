@@ -15,7 +15,7 @@
 
 ## 📝 Study Notes: 
 
-<p>Find my content here: [sulticrax.gitbook.io](https://sulticrax.gitbook.io)</p>
+Find my content here: [0xfauda](https://sulticrax.gitbook.io)
 
 ![sulticrax' HackTheBox bagde](https://www.hackthebox.eu/badge/image/951433)
 
