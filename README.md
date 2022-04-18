@@ -20,7 +20,7 @@
 <p>[sulticrax TryHackMe bagde](src="https://tryhackme.com/badge/967397">)
 <p>[sulticrax](https://www.hackthebox.eu/badge/image/951433)</p>
 
-![AtomicNicos' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/AtomicNicos.png)
+![sulticrax' TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/sulticrax.png)
 
 
 
