@@ -4,10 +4,10 @@
 
 ## 📫 How to reach me:
 
-[<p align='center'> <img src="https://img.shields.io/badge/website-sulticrax.gitbook.io-green?style=for-the-badge"/>]
-[<img src="https://img.shields.io/badge/email-sulticrax@0xfauda.io-orange?style=for-the-badge&logo=proton"/>]
-[<img src="https://img.shields.io/badge/linkedin-christodeale-blue?style=for-the-badge&logo=linkedin"/>]
-[<img src="https://img.shields.io/badge/twitter-sulticrax-lightblue?style=for-the-badge&logo=twitter"/>]
+<p align='center'> <img src="https://img.shields.io/badge/website-sulticrax.gitbook.io-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/email-sulticrax@0xfauda.io-orange?style=for-the-badge&logo=proton"/>
+<img src="https://img.shields.io/badge/linkedin-christodeale-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/twitter-sulticrax-lightblue?style=for-the-badge&logo=twitter"/>
 
 
 [<p align='center'> <img src="https://img.shields.io/badge/website-sulticrax.gitbook.io/-green?style=for-the-badge"[1]
