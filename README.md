@@ -2,6 +2,9 @@
 - 👀 I’m interested in Bash Scripting
 - 🌱 I’m currently learning RHCSA 8
 
+## 🧰 Currently learning my first Language
+![Shell](https://img.shields.io/badge/shell-3670A0?style=for-the-badge&logo=shell&logoColor=ffdd54)
+
 ## 📫 How to reach me:
 
 <p align='center'> <img src="https://img.shields.io/badge/website-sulticrax.gitbook.io-green?style=for-the-badge"/>
