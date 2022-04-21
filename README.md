@@ -1,6 +1,7 @@
 ## 👋 Intro:
 - 🔭 Hi, I’m Christo aka sulticrax
 - ⚡ coffee shop regular / crossed the equator a few times
+- ⚡ i am not a programmer, i am figuring things out as I go along.
 - 🌱 I’m currently learning RHCSA 8
 
 ## 🧰 Currently learning my first Language
@@ -8,14 +9,16 @@
 
 ## 📫 How to reach me:
 
-<p align='center'> <img src="https://img.shields.io/badge/website-sulticrax.gitbook.io-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/email-sulticrax@0xfauda.io-orange?style=for-the-badge&logo=proton"/>
-<img src="https://img.shields.io/badge/linkedin-christodeale-blue?style=for-the-badge&logo=linkedin"/>
+<p align='left'> <img src="https://img.shields.io/badge/website-sulticrax.gitbook.io-lightblue?style=for-the-badge"/>
+<p><img src="https://img.shields.io/badge/email-sulticrax@0xfauda.io-lightblue?style=for-the-badge&logo=proton"/></p>
+<p><img src="https://img.shields.io/badge/linkedin-christodeale-lightblue?style=for-the-badge&logo=linkedin"/></p>
 <img src="https://img.shields.io/badge/twitter-sulticrax-lightblue?style=for-the-badge&logo=twitter"/>
 
 ## 📝 Study Notes: 
 
-Find my content here: [0xfauda](https://sulticrax.gitbook.io)
+Find my content here:  >>> [0xfauda](https://sulticrax.gitbook.io) <<<
+
+## 📝 Side Hobbies:
 
 ![sulticrax' HackTheBox bagde](https://www.hackthebox.eu/badge/image/951433)
 
