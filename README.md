@@ -10,7 +10,6 @@
 ## 📫 How to reach me:
 
 <p align='left'> <img src="https://img.shields.io/badge/website-sulticrax.gitbook.io-lightblue?style=for-the-badge"/>
-<p><img src="https://img.shields.io/badge/email-sulticrax@0xfauda.io-lightblue?style=for-the-badge&logo=proton"/></p>
 <p><img src="https://img.shields.io/badge/linkedin-christodeale-lightblue?style=for-the-badge&logo=linkedin"/></p>
 <img src="https://img.shields.io/badge/twitter-sulticrax-lightblue?style=for-the-badge&logo=twitter"/>
 
